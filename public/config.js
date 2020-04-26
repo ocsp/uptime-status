@@ -28,11 +28,7 @@ window.Config = {
   Navi: [
     {
       text: 'Homepage',
-      url: 'https://status.org.cn/'
-    },
-    {
-      text: 'GitHub',
-      url: 'https://github.com/yb/uptime-status'
+      url: 'https://arknights.work/?u=status/'
     }
   ]
 };
